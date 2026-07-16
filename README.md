@@ -82,15 +82,13 @@ Arduino-Nano-Radio-Transmitter-Receiver/
 
 ## 📡 Transmitter
 
-![Arduino Nano Receiver](Images/receiver.jpg)
-
+<img src="Images/transmitter.jpg" width="200">
 
 ---
 
 ## 📡 Receiver
 
-![Arduino Nano Transmitter](Images/transmitter.jpg)
-
+<img src="Images/receiver.jpg" width="200">
 
 ---
 

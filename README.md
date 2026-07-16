@@ -51,13 +51,17 @@ The primary goal of this project was to design a reliable, long-range radio comm
 ```
 Arduino-Nano-Radio-Transmitter-Receiver/
 
-├── Source Code/
-│   ├── Transmitter/
-│   └── Receiver/
+├── Aduino Code/
+│   ├── Transmitter Code
+│   └── Receiver Code
 │
-├── Images/
-│   ├── transmitter.jpg
-│   └── receiver.jpg
+├── Circuit Diagrams/
+│   ├── transmitter.jpeg
+│   └── receiver.jpeg
+│
+├── Hardware Checker/
+│   ├── transmitter Checker
+│   └── receiver Checker
 │
 └── README.md
 ```

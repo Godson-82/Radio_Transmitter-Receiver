@@ -82,8 +82,6 @@ Arduino-Nano-Radio-Transmitter-Receiver/
 
 ## 📡 Transmitter
 
-> Add an image of the completed transmitter here.
-
 ```
 Images/transmitter.jpg
 ```
@@ -91,8 +89,6 @@ Images/transmitter.jpg
 ---
 
 ## 📡 Receiver
-
-> Add an image of the completed receiver here.
 
 ```
 Images/receiver.jpg
